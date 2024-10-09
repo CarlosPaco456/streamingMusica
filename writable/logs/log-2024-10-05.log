@@ -1,0 +1,748 @@
+CRITICAL - 2024-10-05 14:41:33 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "index.php"
+[Method: GET, Route: /]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('index', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('index')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-05 14:41:37 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "index.php"
+[Method: GET, Route: /]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('index', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('index')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-05 14:41:48 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "index.php"
+[Method: GET, Route: /]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('index', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('index')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-05 14:41:49 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "index.php"
+[Method: GET, Route: /]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('index', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('index')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-05 14:41:49 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "index.php"
+[Method: GET, Route: /]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('index', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('index')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-05 15:14:22 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "header.php"
+[Method: GET, Route: /]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('header.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('header', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('header')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-05 15:14:24 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "header.php"
+[Method: GET, Route: /]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('header.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('header', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('header')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-05 15:16:47 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "header.php"
+[Method: GET, Route: /]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('header.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('header', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('header')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-05 15:17:29 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "header.php"
+[Method: GET, Route: /]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('header.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('header', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('header')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-05 15:17:31 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "header.php"
+[Method: GET, Route: /]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('header.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('header', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('header')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-05 15:17:31 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "header.php"
+[Method: GET, Route: /]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('header.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('header', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('header')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-05 15:59:06 --> ParseError: syntax error, unexpected identifier "UsuarioModel"
+[Method: GET, Route: usuario]
+in APPPATH\Controllers\UsuarioController.php on line 14.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\streaming-musica\\app\\Controllers\\UsuarioController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\UsuarioController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\UsuarioController')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\UsuarioController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-05 15:59:15 --> ParseError: syntax error, unexpected identifier "UsuarioModel"
+[Method: GET, Route: usuario]
+in APPPATH\Controllers\UsuarioController.php on line 14.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\streaming-musica\\app\\Controllers\\UsuarioController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\UsuarioController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\UsuarioController')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\UsuarioController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-10-05 16:19:49 --> ErrorException: pg_query(): Query failed: ERROR:  no existe la relación «fqt_usuarios»
+LINE 1: INSERT INTO &quot;fqt_usuarios&quot; (&quot;nombre&quot;, &quot;fecha_creacion&quot;, &quot;est...
+                    ^ in C:\xampp\htdocs\streaming-musica\system\Database\Postgre\Connection.php:204
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 204)
+#1 C:\xampp\htdocs\streaming-musica\system\Database\Postgre\Connection.php(204): pg_query(Object(PgSql\Connection), 'INSERT INTO "fq...')
+#2 C:\xampp\htdocs\streaming-musica\system\Database\BaseConnection.php(734): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "fq...')
+#3 C:\xampp\htdocs\streaming-musica\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "fq...')
+#4 C:\xampp\htdocs\streaming-musica\system\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO "fq...', Array, false)
+#5 C:\xampp\htdocs\streaming-musica\system\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+#6 C:\xampp\htdocs\streaming-musica\system\BaseModel.php(840): CodeIgniter\Model->doInsert(Array)
+#7 C:\xampp\htdocs\streaming-musica\system\Model.php(802): CodeIgniter\BaseModel->insert(Array, true)
+#8 C:\xampp\htdocs\streaming-musica\app\Controllers\UsuarioController.php(14): CodeIgniter\Model->insert(Array)
+#9 C:\xampp\htdocs\streaming-musica\system\CodeIgniter.php(933): App\Controllers\UsuarioController->index()
+#10 C:\xampp\htdocs\streaming-musica\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+#11 C:\xampp\htdocs\streaming-musica\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\streaming-musica\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\streaming-musica\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#14 C:\xampp\htdocs\streaming-musica\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#15 {main}
+CRITICAL - 2024-10-05 16:19:49 --> CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  no existe la relación «fqt_usuarios»
+LINE 1: INSERT INTO &quot;fqt_usuarios&quot; (&quot;nombre&quot;, &quot;fecha_creacion&quot;, &quot;est...
+                    ^
+[Method: GET, Route: usuario]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO "fqt_usuarios" ("nombre", "fecha_creacion", "estado") VALUES (:nombre:, :fecha_creacion:, :estado:)', [...], false)
+ 2 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\UsuarioController.php(14): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UsuarioController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-05 16:19:49 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  no existe la relación «fqt_usuarios»
+LINE 1: INSERT INTO &quot;fqt_usuarios&quot; (&quot;nombre&quot;, &quot;fecha_creacion&quot;, &quot;est...
+                    ^
+in SYSTEMPATH\Database\Postgre\Connection.php on line 209.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "fqt_usuarios" ("nombre", "fecha_creacion", "estado") VALUES (\' juan\', \'2024-10-05 16:19:48\', \'ACTITUD\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "fqt_usuarios" ("nombre", "fecha_creacion", "estado") VALUES (\' juan\', \'2024-10-05 16:19:48\', \'ACTITUD\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO "fqt_usuarios" ("nombre", "fecha_creacion", "estado") VALUES (:nombre:, :fecha_creacion:, :estado:)', [...], false)
+ 4 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 7 APPPATH\Controllers\UsuarioController.php(14): CodeIgniter\Model->insert([...])
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UsuarioController->index()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-05 16:19:49 --> [Caused by] ErrorException: pg_query(): Query failed: ERROR:  no existe la relación «fqt_usuarios»
+LINE 1: INSERT INTO &quot;fqt_usuarios&quot; (&quot;nombre&quot;, &quot;fecha_creacion&quot;, &quot;est...
+                    ^
+in SYSTEMPATH\Database\Postgre\Connection.php on line 204.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Query failed: ERROR:  no existe la relación «fqt_usuarios»
+LINE 1: INSERT INTO &quot;fqt_usuarios&quot; (&quot;nombre&quot;, &quot;fecha_creacion&quot;, &quot;est...
+                    ^', 'C:\\xampp\\htdocs\\streaming-musica\\system\\Database\\Postgre\\Connection.php', 204)
+ 2 SYSTEMPATH\Database\Postgre\Connection.php(204): pg_query(Object(PgSql\Connection), 'INSERT INTO "fqt_usuarios" ("nombre", "fecha_creacion", "estado") VALUES (\' juan\', \'2024-10-05 16:19:48\', \'ACTITUD\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "fqt_usuarios" ("nombre", "fecha_creacion", "estado") VALUES (\' juan\', \'2024-10-05 16:19:48\', \'ACTITUD\')')
+ 4 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "fqt_usuarios" ("nombre", "fecha_creacion", "estado") VALUES (\' juan\', \'2024-10-05 16:19:48\', \'ACTITUD\')')
+ 5 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO "fqt_usuarios" ("nombre", "fecha_creacion", "estado") VALUES (:nombre:, :fecha_creacion:, :estado:)', [...], false)
+ 6 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 7 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 8 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 9 APPPATH\Controllers\UsuarioController.php(14): CodeIgniter\Model->insert([...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UsuarioController->index()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-10-05 16:19:52 --> ErrorException: pg_query(): Query failed: ERROR:  no existe la relación «fqt_usuarios»
+LINE 1: INSERT INTO &quot;fqt_usuarios&quot; (&quot;nombre&quot;, &quot;fecha_creacion&quot;, &quot;est...
+                    ^ in C:\xampp\htdocs\streaming-musica\system\Database\Postgre\Connection.php:204
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 204)
+#1 C:\xampp\htdocs\streaming-musica\system\Database\Postgre\Connection.php(204): pg_query(Object(PgSql\Connection), 'INSERT INTO "fq...')
+#2 C:\xampp\htdocs\streaming-musica\system\Database\BaseConnection.php(734): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "fq...')
+#3 C:\xampp\htdocs\streaming-musica\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "fq...')
+#4 C:\xampp\htdocs\streaming-musica\system\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO "fq...', Array, false)
+#5 C:\xampp\htdocs\streaming-musica\system\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+#6 C:\xampp\htdocs\streaming-musica\system\BaseModel.php(840): CodeIgniter\Model->doInsert(Array)
+#7 C:\xampp\htdocs\streaming-musica\system\Model.php(802): CodeIgniter\BaseModel->insert(Array, true)
+#8 C:\xampp\htdocs\streaming-musica\app\Controllers\UsuarioController.php(14): CodeIgniter\Model->insert(Array)
+#9 C:\xampp\htdocs\streaming-musica\system\CodeIgniter.php(933): App\Controllers\UsuarioController->index()
+#10 C:\xampp\htdocs\streaming-musica\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+#11 C:\xampp\htdocs\streaming-musica\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\streaming-musica\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\streaming-musica\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#14 C:\xampp\htdocs\streaming-musica\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#15 {main}
+CRITICAL - 2024-10-05 16:19:52 --> CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  no existe la relación «fqt_usuarios»
+LINE 1: INSERT INTO &quot;fqt_usuarios&quot; (&quot;nombre&quot;, &quot;fecha_creacion&quot;, &quot;est...
+                    ^
+[Method: GET, Route: usuario]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO "fqt_usuarios" ("nombre", "fecha_creacion", "estado") VALUES (:nombre:, :fecha_creacion:, :estado:)', [...], false)
+ 2 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\UsuarioController.php(14): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UsuarioController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-05 16:19:52 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  no existe la relación «fqt_usuarios»
+LINE 1: INSERT INTO &quot;fqt_usuarios&quot; (&quot;nombre&quot;, &quot;fecha_creacion&quot;, &quot;est...
+                    ^
+in SYSTEMPATH\Database\Postgre\Connection.php on line 209.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "fqt_usuarios" ("nombre", "fecha_creacion", "estado") VALUES (\' juan\', \'2024-10-05 16:19:52\', \'ACTITUD\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "fqt_usuarios" ("nombre", "fecha_creacion", "estado") VALUES (\' juan\', \'2024-10-05 16:19:52\', \'ACTITUD\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO "fqt_usuarios" ("nombre", "fecha_creacion", "estado") VALUES (:nombre:, :fecha_creacion:, :estado:)', [...], false)
+ 4 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 7 APPPATH\Controllers\UsuarioController.php(14): CodeIgniter\Model->insert([...])
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UsuarioController->index()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-05 16:19:52 --> [Caused by] ErrorException: pg_query(): Query failed: ERROR:  no existe la relación «fqt_usuarios»
+LINE 1: INSERT INTO &quot;fqt_usuarios&quot; (&quot;nombre&quot;, &quot;fecha_creacion&quot;, &quot;est...
+                    ^
+in SYSTEMPATH\Database\Postgre\Connection.php on line 204.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Query failed: ERROR:  no existe la relación «fqt_usuarios»
+LINE 1: INSERT INTO &quot;fqt_usuarios&quot; (&quot;nombre&quot;, &quot;fecha_creacion&quot;, &quot;est...
+                    ^', 'C:\\xampp\\htdocs\\streaming-musica\\system\\Database\\Postgre\\Connection.php', 204)
+ 2 SYSTEMPATH\Database\Postgre\Connection.php(204): pg_query(Object(PgSql\Connection), 'INSERT INTO "fqt_usuarios" ("nombre", "fecha_creacion", "estado") VALUES (\' juan\', \'2024-10-05 16:19:52\', \'ACTITUD\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "fqt_usuarios" ("nombre", "fecha_creacion", "estado") VALUES (\' juan\', \'2024-10-05 16:19:52\', \'ACTITUD\')')
+ 4 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "fqt_usuarios" ("nombre", "fecha_creacion", "estado") VALUES (\' juan\', \'2024-10-05 16:19:52\', \'ACTITUD\')')
+ 5 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO "fqt_usuarios" ("nombre", "fecha_creacion", "estado") VALUES (:nombre:, :fecha_creacion:, :estado:)', [...], false)
+ 6 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 7 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 8 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 9 APPPATH\Controllers\UsuarioController.php(14): CodeIgniter\Model->insert([...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UsuarioController->index()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-10-05 16:22:12 --> ErrorException: pg_query(): Query failed: ERROR:  no existe la relación «fqt_usuarios»
+LINE 1: INSERT INTO &quot;fqt_usuarios&quot; (&quot;nombre&quot;, &quot;fecha_creacion&quot;, &quot;est...
+                    ^ in C:\xampp\htdocs\streaming-musica\system\Database\Postgre\Connection.php:204
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 204)
+#1 C:\xampp\htdocs\streaming-musica\system\Database\Postgre\Connection.php(204): pg_query(Object(PgSql\Connection), 'INSERT INTO "fq...')
+#2 C:\xampp\htdocs\streaming-musica\system\Database\BaseConnection.php(734): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "fq...')
+#3 C:\xampp\htdocs\streaming-musica\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "fq...')
+#4 C:\xampp\htdocs\streaming-musica\system\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO "fq...', Array, false)
+#5 C:\xampp\htdocs\streaming-musica\system\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+#6 C:\xampp\htdocs\streaming-musica\system\BaseModel.php(840): CodeIgniter\Model->doInsert(Array)
+#7 C:\xampp\htdocs\streaming-musica\system\Model.php(802): CodeIgniter\BaseModel->insert(Array, true)
+#8 C:\xampp\htdocs\streaming-musica\app\Controllers\UsuarioController.php(14): CodeIgniter\Model->insert(Array)
+#9 C:\xampp\htdocs\streaming-musica\system\CodeIgniter.php(933): App\Controllers\UsuarioController->index()
+#10 C:\xampp\htdocs\streaming-musica\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+#11 C:\xampp\htdocs\streaming-musica\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\streaming-musica\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\streaming-musica\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#14 C:\xampp\htdocs\streaming-musica\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#15 {main}
+CRITICAL - 2024-10-05 16:22:12 --> CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  no existe la relación «fqt_usuarios»
+LINE 1: INSERT INTO &quot;fqt_usuarios&quot; (&quot;nombre&quot;, &quot;fecha_creacion&quot;, &quot;est...
+                    ^
+[Method: GET, Route: usuario]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO "fqt_usuarios" ("nombre", "fecha_creacion", "estado") VALUES (:nombre:, :fecha_creacion:, :estado:)', [...], false)
+ 2 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\UsuarioController.php(14): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UsuarioController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-05 16:22:12 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  no existe la relación «fqt_usuarios»
+LINE 1: INSERT INTO &quot;fqt_usuarios&quot; (&quot;nombre&quot;, &quot;fecha_creacion&quot;, &quot;est...
+                    ^
+in SYSTEMPATH\Database\Postgre\Connection.php on line 209.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "fqt_usuarios" ("nombre", "fecha_creacion", "estado") VALUES (\' juan\', \'2024-10-05 16:22:12\', \'ACTITUD\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "fqt_usuarios" ("nombre", "fecha_creacion", "estado") VALUES (\' juan\', \'2024-10-05 16:22:12\', \'ACTITUD\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO "fqt_usuarios" ("nombre", "fecha_creacion", "estado") VALUES (:nombre:, :fecha_creacion:, :estado:)', [...], false)
+ 4 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 7 APPPATH\Controllers\UsuarioController.php(14): CodeIgniter\Model->insert([...])
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UsuarioController->index()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-05 16:22:12 --> [Caused by] ErrorException: pg_query(): Query failed: ERROR:  no existe la relación «fqt_usuarios»
+LINE 1: INSERT INTO &quot;fqt_usuarios&quot; (&quot;nombre&quot;, &quot;fecha_creacion&quot;, &quot;est...
+                    ^
+in SYSTEMPATH\Database\Postgre\Connection.php on line 204.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Query failed: ERROR:  no existe la relación «fqt_usuarios»
+LINE 1: INSERT INTO &quot;fqt_usuarios&quot; (&quot;nombre&quot;, &quot;fecha_creacion&quot;, &quot;est...
+                    ^', 'C:\\xampp\\htdocs\\streaming-musica\\system\\Database\\Postgre\\Connection.php', 204)
+ 2 SYSTEMPATH\Database\Postgre\Connection.php(204): pg_query(Object(PgSql\Connection), 'INSERT INTO "fqt_usuarios" ("nombre", "fecha_creacion", "estado") VALUES (\' juan\', \'2024-10-05 16:22:12\', \'ACTITUD\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "fqt_usuarios" ("nombre", "fecha_creacion", "estado") VALUES (\' juan\', \'2024-10-05 16:22:12\', \'ACTITUD\')')
+ 4 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "fqt_usuarios" ("nombre", "fecha_creacion", "estado") VALUES (\' juan\', \'2024-10-05 16:22:12\', \'ACTITUD\')')
+ 5 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO "fqt_usuarios" ("nombre", "fecha_creacion", "estado") VALUES (:nombre:, :fecha_creacion:, :estado:)', [...], false)
+ 6 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 7 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 8 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 9 APPPATH\Controllers\UsuarioController.php(14): CodeIgniter\Model->insert([...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UsuarioController->index()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-10-05 16:22:36 --> ErrorException: pg_query(): Query failed: ERROR:  no existe la relación «fqt_usuarios»
+LINE 1: INSERT INTO &quot;fqt_usuarios&quot; (&quot;nombre&quot;, &quot;fecha_creacion&quot;, &quot;est...
+                    ^ in C:\xampp\htdocs\streaming-musica\system\Database\Postgre\Connection.php:204
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 204)
+#1 C:\xampp\htdocs\streaming-musica\system\Database\Postgre\Connection.php(204): pg_query(Object(PgSql\Connection), 'INSERT INTO "fq...')
+#2 C:\xampp\htdocs\streaming-musica\system\Database\BaseConnection.php(734): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "fq...')
+#3 C:\xampp\htdocs\streaming-musica\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "fq...')
+#4 C:\xampp\htdocs\streaming-musica\system\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO "fq...', Array, false)
+#5 C:\xampp\htdocs\streaming-musica\system\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+#6 C:\xampp\htdocs\streaming-musica\system\BaseModel.php(840): CodeIgniter\Model->doInsert(Array)
+#7 C:\xampp\htdocs\streaming-musica\system\Model.php(802): CodeIgniter\BaseModel->insert(Array, true)
+#8 C:\xampp\htdocs\streaming-musica\app\Controllers\UsuarioController.php(14): CodeIgniter\Model->insert(Array)
+#9 C:\xampp\htdocs\streaming-musica\system\CodeIgniter.php(933): App\Controllers\UsuarioController->index()
+#10 C:\xampp\htdocs\streaming-musica\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+#11 C:\xampp\htdocs\streaming-musica\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\streaming-musica\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\streaming-musica\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#14 C:\xampp\htdocs\streaming-musica\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#15 {main}
+CRITICAL - 2024-10-05 16:22:36 --> CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  no existe la relación «fqt_usuarios»
+LINE 1: INSERT INTO &quot;fqt_usuarios&quot; (&quot;nombre&quot;, &quot;fecha_creacion&quot;, &quot;est...
+                    ^
+[Method: GET, Route: usuario]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO "fqt_usuarios" ("nombre", "fecha_creacion", "estado") VALUES (:nombre:, :fecha_creacion:, :estado:)', [...], false)
+ 2 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\UsuarioController.php(14): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UsuarioController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-05 16:22:36 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  no existe la relación «fqt_usuarios»
+LINE 1: INSERT INTO &quot;fqt_usuarios&quot; (&quot;nombre&quot;, &quot;fecha_creacion&quot;, &quot;est...
+                    ^
+in SYSTEMPATH\Database\Postgre\Connection.php on line 209.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "fqt_usuarios" ("nombre", "fecha_creacion", "estado") VALUES (\' juan\', \'2024-10-05 16:22:36\', \'ACTITUD\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "fqt_usuarios" ("nombre", "fecha_creacion", "estado") VALUES (\' juan\', \'2024-10-05 16:22:36\', \'ACTITUD\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO "fqt_usuarios" ("nombre", "fecha_creacion", "estado") VALUES (:nombre:, :fecha_creacion:, :estado:)', [...], false)
+ 4 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 7 APPPATH\Controllers\UsuarioController.php(14): CodeIgniter\Model->insert([...])
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UsuarioController->index()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-05 16:22:36 --> [Caused by] ErrorException: pg_query(): Query failed: ERROR:  no existe la relación «fqt_usuarios»
+LINE 1: INSERT INTO &quot;fqt_usuarios&quot; (&quot;nombre&quot;, &quot;fecha_creacion&quot;, &quot;est...
+                    ^
+in SYSTEMPATH\Database\Postgre\Connection.php on line 204.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Query failed: ERROR:  no existe la relación «fqt_usuarios»
+LINE 1: INSERT INTO &quot;fqt_usuarios&quot; (&quot;nombre&quot;, &quot;fecha_creacion&quot;, &quot;est...
+                    ^', 'C:\\xampp\\htdocs\\streaming-musica\\system\\Database\\Postgre\\Connection.php', 204)
+ 2 SYSTEMPATH\Database\Postgre\Connection.php(204): pg_query(Object(PgSql\Connection), 'INSERT INTO "fqt_usuarios" ("nombre", "fecha_creacion", "estado") VALUES (\' juan\', \'2024-10-05 16:22:36\', \'ACTITUD\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "fqt_usuarios" ("nombre", "fecha_creacion", "estado") VALUES (\' juan\', \'2024-10-05 16:22:36\', \'ACTITUD\')')
+ 4 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "fqt_usuarios" ("nombre", "fecha_creacion", "estado") VALUES (\' juan\', \'2024-10-05 16:22:36\', \'ACTITUD\')')
+ 5 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO "fqt_usuarios" ("nombre", "fecha_creacion", "estado") VALUES (:nombre:, :fecha_creacion:, :estado:)', [...], false)
+ 6 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 7 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 8 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 9 APPPATH\Controllers\UsuarioController.php(14): CodeIgniter\Model->insert([...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UsuarioController->index()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-10-05 16:22:40 --> ErrorException: pg_query(): Query failed: ERROR:  no existe la relación «fqt_usuarios»
+LINE 1: INSERT INTO &quot;fqt_usuarios&quot; (&quot;nombre&quot;, &quot;fecha_creacion&quot;, &quot;est...
+                    ^ in C:\xampp\htdocs\streaming-musica\system\Database\Postgre\Connection.php:204
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 204)
+#1 C:\xampp\htdocs\streaming-musica\system\Database\Postgre\Connection.php(204): pg_query(Object(PgSql\Connection), 'INSERT INTO "fq...')
+#2 C:\xampp\htdocs\streaming-musica\system\Database\BaseConnection.php(734): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "fq...')
+#3 C:\xampp\htdocs\streaming-musica\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "fq...')
+#4 C:\xampp\htdocs\streaming-musica\system\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO "fq...', Array, false)
+#5 C:\xampp\htdocs\streaming-musica\system\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+#6 C:\xampp\htdocs\streaming-musica\system\BaseModel.php(840): CodeIgniter\Model->doInsert(Array)
+#7 C:\xampp\htdocs\streaming-musica\system\Model.php(802): CodeIgniter\BaseModel->insert(Array, true)
+#8 C:\xampp\htdocs\streaming-musica\app\Controllers\UsuarioController.php(14): CodeIgniter\Model->insert(Array)
+#9 C:\xampp\htdocs\streaming-musica\system\CodeIgniter.php(933): App\Controllers\UsuarioController->index()
+#10 C:\xampp\htdocs\streaming-musica\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+#11 C:\xampp\htdocs\streaming-musica\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\streaming-musica\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\streaming-musica\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#14 C:\xampp\htdocs\streaming-musica\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#15 {main}
+CRITICAL - 2024-10-05 16:22:40 --> CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  no existe la relación «fqt_usuarios»
+LINE 1: INSERT INTO &quot;fqt_usuarios&quot; (&quot;nombre&quot;, &quot;fecha_creacion&quot;, &quot;est...
+                    ^
+[Method: GET, Route: usuario]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO "fqt_usuarios" ("nombre", "fecha_creacion", "estado") VALUES (:nombre:, :fecha_creacion:, :estado:)', [...], false)
+ 2 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\UsuarioController.php(14): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UsuarioController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-05 16:22:40 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  no existe la relación «fqt_usuarios»
+LINE 1: INSERT INTO &quot;fqt_usuarios&quot; (&quot;nombre&quot;, &quot;fecha_creacion&quot;, &quot;est...
+                    ^
+in SYSTEMPATH\Database\Postgre\Connection.php on line 209.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "fqt_usuarios" ("nombre", "fecha_creacion", "estado") VALUES (\' juan\', \'2024-10-05 16:22:40\', \'ACTITUD\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "fqt_usuarios" ("nombre", "fecha_creacion", "estado") VALUES (\' juan\', \'2024-10-05 16:22:40\', \'ACTITUD\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO "fqt_usuarios" ("nombre", "fecha_creacion", "estado") VALUES (:nombre:, :fecha_creacion:, :estado:)', [...], false)
+ 4 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 7 APPPATH\Controllers\UsuarioController.php(14): CodeIgniter\Model->insert([...])
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UsuarioController->index()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-05 16:22:40 --> [Caused by] ErrorException: pg_query(): Query failed: ERROR:  no existe la relación «fqt_usuarios»
+LINE 1: INSERT INTO &quot;fqt_usuarios&quot; (&quot;nombre&quot;, &quot;fecha_creacion&quot;, &quot;est...
+                    ^
+in SYSTEMPATH\Database\Postgre\Connection.php on line 204.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Query failed: ERROR:  no existe la relación «fqt_usuarios»
+LINE 1: INSERT INTO &quot;fqt_usuarios&quot; (&quot;nombre&quot;, &quot;fecha_creacion&quot;, &quot;est...
+                    ^', 'C:\\xampp\\htdocs\\streaming-musica\\system\\Database\\Postgre\\Connection.php', 204)
+ 2 SYSTEMPATH\Database\Postgre\Connection.php(204): pg_query(Object(PgSql\Connection), 'INSERT INTO "fqt_usuarios" ("nombre", "fecha_creacion", "estado") VALUES (\' juan\', \'2024-10-05 16:22:40\', \'ACTITUD\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "fqt_usuarios" ("nombre", "fecha_creacion", "estado") VALUES (\' juan\', \'2024-10-05 16:22:40\', \'ACTITUD\')')
+ 4 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "fqt_usuarios" ("nombre", "fecha_creacion", "estado") VALUES (\' juan\', \'2024-10-05 16:22:40\', \'ACTITUD\')')
+ 5 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO "fqt_usuarios" ("nombre", "fecha_creacion", "estado") VALUES (:nombre:, :fecha_creacion:, :estado:)', [...], false)
+ 6 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 7 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 8 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 9 APPPATH\Controllers\UsuarioController.php(14): CodeIgniter\Model->insert([...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UsuarioController->index()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-10-05 16:22:48 --> ErrorException: pg_query(): Query failed: ERROR:  no existe la relación «fqt_usuarios»
+LINE 1: INSERT INTO &quot;fqt_usuarios&quot; (&quot;nombre&quot;, &quot;fecha_creacion&quot;, &quot;est...
+                    ^ in C:\xampp\htdocs\streaming-musica\system\Database\Postgre\Connection.php:204
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 204)
+#1 C:\xampp\htdocs\streaming-musica\system\Database\Postgre\Connection.php(204): pg_query(Object(PgSql\Connection), 'INSERT INTO "fq...')
+#2 C:\xampp\htdocs\streaming-musica\system\Database\BaseConnection.php(734): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "fq...')
+#3 C:\xampp\htdocs\streaming-musica\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "fq...')
+#4 C:\xampp\htdocs\streaming-musica\system\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO "fq...', Array, false)
+#5 C:\xampp\htdocs\streaming-musica\system\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+#6 C:\xampp\htdocs\streaming-musica\system\BaseModel.php(840): CodeIgniter\Model->doInsert(Array)
+#7 C:\xampp\htdocs\streaming-musica\system\Model.php(802): CodeIgniter\BaseModel->insert(Array, true)
+#8 C:\xampp\htdocs\streaming-musica\app\Controllers\UsuarioController.php(14): CodeIgniter\Model->insert(Array)
+#9 C:\xampp\htdocs\streaming-musica\system\CodeIgniter.php(933): App\Controllers\UsuarioController->index()
+#10 C:\xampp\htdocs\streaming-musica\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+#11 C:\xampp\htdocs\streaming-musica\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\streaming-musica\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\streaming-musica\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#14 C:\xampp\htdocs\streaming-musica\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#15 {main}
+CRITICAL - 2024-10-05 16:22:48 --> CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  no existe la relación «fqt_usuarios»
+LINE 1: INSERT INTO &quot;fqt_usuarios&quot; (&quot;nombre&quot;, &quot;fecha_creacion&quot;, &quot;est...
+                    ^
+[Method: GET, Route: usuario]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO "fqt_usuarios" ("nombre", "fecha_creacion", "estado") VALUES (:nombre:, :fecha_creacion:, :estado:)', [...], false)
+ 2 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\UsuarioController.php(14): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UsuarioController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-05 16:22:48 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  no existe la relación «fqt_usuarios»
+LINE 1: INSERT INTO &quot;fqt_usuarios&quot; (&quot;nombre&quot;, &quot;fecha_creacion&quot;, &quot;est...
+                    ^
+in SYSTEMPATH\Database\Postgre\Connection.php on line 209.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "fqt_usuarios" ("nombre", "fecha_creacion", "estado") VALUES (\' juan\', \'2024-10-05 16:22:48\', \'ACTITUD\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "fqt_usuarios" ("nombre", "fecha_creacion", "estado") VALUES (\' juan\', \'2024-10-05 16:22:48\', \'ACTITUD\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO "fqt_usuarios" ("nombre", "fecha_creacion", "estado") VALUES (:nombre:, :fecha_creacion:, :estado:)', [...], false)
+ 4 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 7 APPPATH\Controllers\UsuarioController.php(14): CodeIgniter\Model->insert([...])
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UsuarioController->index()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-05 16:22:48 --> [Caused by] ErrorException: pg_query(): Query failed: ERROR:  no existe la relación «fqt_usuarios»
+LINE 1: INSERT INTO &quot;fqt_usuarios&quot; (&quot;nombre&quot;, &quot;fecha_creacion&quot;, &quot;est...
+                    ^
+in SYSTEMPATH\Database\Postgre\Connection.php on line 204.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Query failed: ERROR:  no existe la relación «fqt_usuarios»
+LINE 1: INSERT INTO &quot;fqt_usuarios&quot; (&quot;nombre&quot;, &quot;fecha_creacion&quot;, &quot;est...
+                    ^', 'C:\\xampp\\htdocs\\streaming-musica\\system\\Database\\Postgre\\Connection.php', 204)
+ 2 SYSTEMPATH\Database\Postgre\Connection.php(204): pg_query(Object(PgSql\Connection), 'INSERT INTO "fqt_usuarios" ("nombre", "fecha_creacion", "estado") VALUES (\' juan\', \'2024-10-05 16:22:48\', \'ACTITUD\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "fqt_usuarios" ("nombre", "fecha_creacion", "estado") VALUES (\' juan\', \'2024-10-05 16:22:48\', \'ACTITUD\')')
+ 4 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "fqt_usuarios" ("nombre", "fecha_creacion", "estado") VALUES (\' juan\', \'2024-10-05 16:22:48\', \'ACTITUD\')')
+ 5 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO "fqt_usuarios" ("nombre", "fecha_creacion", "estado") VALUES (:nombre:, :fecha_creacion:, :estado:)', [...], false)
+ 6 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 7 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 8 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 9 APPPATH\Controllers\UsuarioController.php(14): CodeIgniter\Model->insert([...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UsuarioController->index()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-10-05 16:23:41 --> ErrorException: pg_query(): Query failed: ERROR:  no existe la relación «fqt_usuarios»
+LINE 1: INSERT INTO &quot;fqt_usuarios&quot; (&quot;nombre&quot;, &quot;fecha_creacion&quot;, &quot;est...
+                    ^ in C:\xampp\htdocs\streaming-musica\system\Database\Postgre\Connection.php:204
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 204)
+#1 C:\xampp\htdocs\streaming-musica\system\Database\Postgre\Connection.php(204): pg_query(Object(PgSql\Connection), 'INSERT INTO "fq...')
+#2 C:\xampp\htdocs\streaming-musica\system\Database\BaseConnection.php(734): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "fq...')
+#3 C:\xampp\htdocs\streaming-musica\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "fq...')
+#4 C:\xampp\htdocs\streaming-musica\system\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO "fq...', Array, false)
+#5 C:\xampp\htdocs\streaming-musica\system\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+#6 C:\xampp\htdocs\streaming-musica\system\BaseModel.php(840): CodeIgniter\Model->doInsert(Array)
+#7 C:\xampp\htdocs\streaming-musica\system\Model.php(802): CodeIgniter\BaseModel->insert(Array, true)
+#8 C:\xampp\htdocs\streaming-musica\app\Controllers\UsuarioController.php(14): CodeIgniter\Model->insert(Array)
+#9 C:\xampp\htdocs\streaming-musica\system\CodeIgniter.php(933): App\Controllers\UsuarioController->index()
+#10 C:\xampp\htdocs\streaming-musica\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+#11 C:\xampp\htdocs\streaming-musica\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\streaming-musica\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\streaming-musica\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#14 C:\xampp\htdocs\streaming-musica\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#15 {main}
+CRITICAL - 2024-10-05 16:23:41 --> CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  no existe la relación «fqt_usuarios»
+LINE 1: INSERT INTO &quot;fqt_usuarios&quot; (&quot;nombre&quot;, &quot;fecha_creacion&quot;, &quot;est...
+                    ^
+[Method: GET, Route: usuario]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO "fqt_usuarios" ("nombre", "fecha_creacion", "estado") VALUES (:nombre:, :fecha_creacion:, :estado:)', [...], false)
+ 2 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\UsuarioController.php(14): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UsuarioController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-05 16:23:41 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  no existe la relación «fqt_usuarios»
+LINE 1: INSERT INTO &quot;fqt_usuarios&quot; (&quot;nombre&quot;, &quot;fecha_creacion&quot;, &quot;est...
+                    ^
+in SYSTEMPATH\Database\Postgre\Connection.php on line 209.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "fqt_usuarios" ("nombre", "fecha_creacion", "estado") VALUES (\' juan\', \'2024-10-05 16:23:41\', \'ACTITUD\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "fqt_usuarios" ("nombre", "fecha_creacion", "estado") VALUES (\' juan\', \'2024-10-05 16:23:41\', \'ACTITUD\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO "fqt_usuarios" ("nombre", "fecha_creacion", "estado") VALUES (:nombre:, :fecha_creacion:, :estado:)', [...], false)
+ 4 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 7 APPPATH\Controllers\UsuarioController.php(14): CodeIgniter\Model->insert([...])
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UsuarioController->index()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-05 16:23:41 --> [Caused by] ErrorException: pg_query(): Query failed: ERROR:  no existe la relación «fqt_usuarios»
+LINE 1: INSERT INTO &quot;fqt_usuarios&quot; (&quot;nombre&quot;, &quot;fecha_creacion&quot;, &quot;est...
+                    ^
+in SYSTEMPATH\Database\Postgre\Connection.php on line 204.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Query failed: ERROR:  no existe la relación «fqt_usuarios»
+LINE 1: INSERT INTO &quot;fqt_usuarios&quot; (&quot;nombre&quot;, &quot;fecha_creacion&quot;, &quot;est...
+                    ^', 'C:\\xampp\\htdocs\\streaming-musica\\system\\Database\\Postgre\\Connection.php', 204)
+ 2 SYSTEMPATH\Database\Postgre\Connection.php(204): pg_query(Object(PgSql\Connection), 'INSERT INTO "fqt_usuarios" ("nombre", "fecha_creacion", "estado") VALUES (\' juan\', \'2024-10-05 16:23:41\', \'ACTITUD\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "fqt_usuarios" ("nombre", "fecha_creacion", "estado") VALUES (\' juan\', \'2024-10-05 16:23:41\', \'ACTITUD\')')
+ 4 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "fqt_usuarios" ("nombre", "fecha_creacion", "estado") VALUES (\' juan\', \'2024-10-05 16:23:41\', \'ACTITUD\')')
+ 5 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO "fqt_usuarios" ("nombre", "fecha_creacion", "estado") VALUES (:nombre:, :fecha_creacion:, :estado:)', [...], false)
+ 6 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 7 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 8 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 9 APPPATH\Controllers\UsuarioController.php(14): CodeIgniter\Model->insert([...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UsuarioController->index()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-10-05 16:24:08 --> ErrorException: pg_query(): Query failed: ERROR:  no existe la relación «fqt_usuarios»
+LINE 1: INSERT INTO &quot;fqt_usuarios&quot; (&quot;nombre&quot;, &quot;fecha_creacion&quot;, &quot;est...
+                    ^ in C:\xampp\htdocs\streaming-musica\system\Database\Postgre\Connection.php:204
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 204)
+#1 C:\xampp\htdocs\streaming-musica\system\Database\Postgre\Connection.php(204): pg_query(Object(PgSql\Connection), 'INSERT INTO "fq...')
+#2 C:\xampp\htdocs\streaming-musica\system\Database\BaseConnection.php(734): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "fq...')
+#3 C:\xampp\htdocs\streaming-musica\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "fq...')
+#4 C:\xampp\htdocs\streaming-musica\system\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO "fq...', Array, false)
+#5 C:\xampp\htdocs\streaming-musica\system\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+#6 C:\xampp\htdocs\streaming-musica\system\BaseModel.php(840): CodeIgniter\Model->doInsert(Array)
+#7 C:\xampp\htdocs\streaming-musica\system\Model.php(802): CodeIgniter\BaseModel->insert(Array, true)
+#8 C:\xampp\htdocs\streaming-musica\app\Controllers\UsuarioController.php(14): CodeIgniter\Model->insert(Array)
+#9 C:\xampp\htdocs\streaming-musica\system\CodeIgniter.php(933): App\Controllers\UsuarioController->index()
+#10 C:\xampp\htdocs\streaming-musica\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+#11 C:\xampp\htdocs\streaming-musica\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\streaming-musica\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\streaming-musica\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#14 C:\xampp\htdocs\streaming-musica\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#15 {main}
+CRITICAL - 2024-10-05 16:24:08 --> CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  no existe la relación «fqt_usuarios»
+LINE 1: INSERT INTO &quot;fqt_usuarios&quot; (&quot;nombre&quot;, &quot;fecha_creacion&quot;, &quot;est...
+                    ^
+[Method: GET, Route: usuario]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO "fqt_usuarios" ("nombre", "fecha_creacion", "estado") VALUES (:nombre:, :fecha_creacion:, :estado:)', [...], false)
+ 2 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\UsuarioController.php(14): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UsuarioController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-05 16:24:08 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  no existe la relación «fqt_usuarios»
+LINE 1: INSERT INTO &quot;fqt_usuarios&quot; (&quot;nombre&quot;, &quot;fecha_creacion&quot;, &quot;est...
+                    ^
+in SYSTEMPATH\Database\Postgre\Connection.php on line 209.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "fqt_usuarios" ("nombre", "fecha_creacion", "estado") VALUES (\' juan\', \'2024-10-05 16:24:08\', \'ACTITUD\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "fqt_usuarios" ("nombre", "fecha_creacion", "estado") VALUES (\' juan\', \'2024-10-05 16:24:08\', \'ACTITUD\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO "fqt_usuarios" ("nombre", "fecha_creacion", "estado") VALUES (:nombre:, :fecha_creacion:, :estado:)', [...], false)
+ 4 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 7 APPPATH\Controllers\UsuarioController.php(14): CodeIgniter\Model->insert([...])
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UsuarioController->index()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-05 16:24:08 --> [Caused by] ErrorException: pg_query(): Query failed: ERROR:  no existe la relación «fqt_usuarios»
+LINE 1: INSERT INTO &quot;fqt_usuarios&quot; (&quot;nombre&quot;, &quot;fecha_creacion&quot;, &quot;est...
+                    ^
+in SYSTEMPATH\Database\Postgre\Connection.php on line 204.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Query failed: ERROR:  no existe la relación «fqt_usuarios»
+LINE 1: INSERT INTO &quot;fqt_usuarios&quot; (&quot;nombre&quot;, &quot;fecha_creacion&quot;, &quot;est...
+                    ^', 'C:\\xampp\\htdocs\\streaming-musica\\system\\Database\\Postgre\\Connection.php', 204)
+ 2 SYSTEMPATH\Database\Postgre\Connection.php(204): pg_query(Object(PgSql\Connection), 'INSERT INTO "fqt_usuarios" ("nombre", "fecha_creacion", "estado") VALUES (\' juan\', \'2024-10-05 16:24:08\', \'ACTITUD\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "fqt_usuarios" ("nombre", "fecha_creacion", "estado") VALUES (\' juan\', \'2024-10-05 16:24:08\', \'ACTITUD\')')
+ 4 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "fqt_usuarios" ("nombre", "fecha_creacion", "estado") VALUES (\' juan\', \'2024-10-05 16:24:08\', \'ACTITUD\')')
+ 5 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO "fqt_usuarios" ("nombre", "fecha_creacion", "estado") VALUES (:nombre:, :fecha_creacion:, :estado:)', [...], false)
+ 6 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 7 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 8 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 9 APPPATH\Controllers\UsuarioController.php(14): CodeIgniter\Model->insert([...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UsuarioController->index()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
