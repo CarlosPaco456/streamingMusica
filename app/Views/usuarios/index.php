@@ -14,6 +14,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Mulish:wght@300;400;500;600;700;800;900&display=swap"
     rel="stylesheet">
 
+
     <!-- Css Styles -->
     <link rel="stylesheet" href="<?= base_url('assets/css/bootstrap.min.css')?>" type="text/css">
     <link rel="stylesheet" href="<?= base_url('assets/css/font-awesome.min.css')?>" type="text/css">
@@ -30,6 +31,8 @@
     <div id="preloder">
         <div class="loader"></div>
     </div>
+
+
 
     <!-- Header Section Begin -->
     <header class="header">
@@ -683,6 +686,30 @@
 </section>
 <!-- Product Section End -->
 
+
+<button id="btn-nuevo" class="btn btn-info">Hola</button>
+<table class="table text-white" >
+    <thead>
+        <tr>
+            <th>id</th>
+            <th>nombre</th>
+            <th>fecha_creacion</th>
+            <th>estado</th>
+        </tr>
+    </thead>
+    <tbody>
+        <?php foreach($foquita as $usuario):?>
+            <tr>
+                <td><?=$usuario['id']?></td>
+                <td><?=$usuario['nombre']?></td>
+                <td><?=$usuario['fecha_creacion']?></td>
+                <td><?=$usuario['estado']?></td>
+            </tr>
+         <?php endforeach?>   
+
+    </tbody>
+</table>
+
 <!-- Footer Section Begin -->
 <footer class="footer">
     <div class="page-up">
@@ -736,6 +763,9 @@
 <script src="<?= base_url('assets/js/jquery.slicknav.js') ?>"></script>
 <script src="<?= base_url('assets/js/owl.carousel.min.js') ?>"></script>
 <script src="<?= base_url('assets/js/main.js') ?>"></script>
+<script src="<?= base_url('assets/js/main.js') ?>"></script>
+<script src="<?= base_url('assets/js/main.js') ?>"></script>
+<script src="<?= base_url('assets/js/usuarios/index.js') ?>"></script>
 
 
 </body>
