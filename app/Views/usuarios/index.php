@@ -85,13 +85,26 @@ http://www.tooplate.com/view/2101-insertion
           <div class="tm-tag-line">
             <h2 class="tm-tag-line-title">Music is your powerful energy.</h2>
           </div>
+          <button id="btn-nuevo">Nuevo Usuario</button>
           <table class="table table-bordered" id="users">
-            <tr>
-              <th>ID</th>
-              <th>Nombre</th>
-              <th>Fecha de creacion</th>
-              <th>Estado</th>
-            </tr>
+            <thead>
+              <tr>
+                <th>ID</th>
+                <th>Nombre</th>
+                <th>Fecha de creacion</th>
+                <th>Estado</th>
+              </tr>
+            </thead>
+            <tbody>
+              <?php foreach ($usuarios as $usuario): ?>
+                <tr>
+                  <td><?= $usuario["id"] ?></td>
+                  <td><?= $usuario["nombre"] ?></td>
+                  <td><?= $usuario["fecha_creacion"] ?></td>
+                  <td><?= $usuario["estado"] ?></td>
+                </tr>
+              <?php endforeach; ?>
+            </tbody>
           </table>
         </div>
       </div>
@@ -120,6 +133,7 @@ http://www.tooplate.com/view/2101-insertion
       $('.tm-current-year').text(new Date().getFullYear()); // Update year in copyright
     });
   </script>
+  <script src="<?= base_url('assets/js/usuarios/index.js') ?>"></script>
 </body>
 
 </html>

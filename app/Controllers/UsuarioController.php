@@ -12,12 +12,13 @@ class UsuarioController extends BaseController
     {
         $usuarioModel = new UsuarioModel();
         // $usuarioModel2 = model('UsuarioModel');
-        $usuarioModel->insert([
-            'nombre' => 'Juan',
-            'fecha_creacion' => date('Y-m-d H:i:s'),
-            'estado' => 'ACTIVO',
-        ]);
-        return dd($usuarioModel->findAll());
-        return view("usuarios/index");
+        // $insertId = $usuarioModel->insert([
+        //     'nombre' => 'Juan',
+        //     'fecha_creacion' => date('Y-m-d H:i:s'),
+        //     'estado' => 'ACTIVO',
+        // ]);
+        $usuarios = $usuarioModel->findAll();
+        // return dd($usuarioModel->findAll());
+        return view("usuarios/index", ['usuarios' => $usuarios]);
     }
 }
