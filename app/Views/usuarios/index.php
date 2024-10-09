@@ -232,14 +232,26 @@
         <div class="row">
           <div class="col-md-12">
             <h1 class="text-center text-primary">Usuarios</h1>
-
+            <button class="btn btn-info btn-sm" id="btn-nuevo">Nuevo Usuario</button>
             <table class="table table-striped" id="tbl-usuarios">
-              <tr>
-                <th>Nro</th>
-                <th>nombre</th>
-                <th>fecha de creacion</th>
-                <th>estado</th>
-              </tr>
+              <thead>
+                <tr>
+                  <th>Nro</th>
+                  <th>nombre</th>
+                  <th>fecha de creacion</th>
+                  <th>estado</th>
+                </tr>
+              </thead>
+              <tbody>
+                <?php foreach ($usuarios as $usuario): ?>
+                  <tr>
+                    <td><?= $usuario['id'] ?></td>
+                    <td><?= $usuario['nombre'] ?></td>
+                    <td><?= $usuario['fecha_creacion'] ?></td>
+                    <td><?= $usuario['estado'] ?></td>
+                  </tr>
+                <?php endforeach; ?>
+              </tbody>
             </table>
           </div>
         </div>
@@ -391,5 +403,6 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe" crossorigin="anonymous"></script>
     <script src="<?= base_url('assets/js/plugins.js') ?>"></script>
     <script src="<?= base_url('assets/js/script.js') ?>"></script>
+    <script src="<?= base_url('assets/js/usuarios/index.js') ?>"></script>
   </body>
 </html>
