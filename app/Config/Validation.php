@@ -41,4 +41,9 @@ class Validation extends BaseConfig
     // --------------------------------------------------------------------
     // Rules
     // --------------------------------------------------------------------
+
+    public array $usuario = [
+        'nombre' => 'required|min_length[3]',
+        'estado' => 'required|in_list[ACTIVO,INACTIVO]'
+    ];
 }
